@@ -3,16 +3,24 @@
 <!--
 **sonphan96/sonphan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A front-end developer with a passion for technology and solving problems with lean, reusable code. I love collaborating as a team and contributing by engineering solutions that are scalable and accessible. Motivated by the challenge of bringing a vision to life, I strive to learn new technologies and guiding principles as I endeavour to expand my ever-growing skillset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript, React, Redux, Nodejs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Learn more about me at MyWebsite.com
+
+My skills include but not limited to:
+- HTML5
+- CSS3/ SASS / SCSS
+- Bootstrap 4
+- Responsive Design
+- JavaScript ES6
+- React / Redux
+- Styled Components / Style Systems
+- REST API
+- Git / GitHub
+- NodeJS/Express
+- Python/ Django 
+- Java/ C#
+
 -->
 
 
