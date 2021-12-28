@@ -6,7 +6,7 @@ Learn more about me at https://son-phan.com/
 My skills include but not limited to:
 - HTML5
 - CSS3/ SASS / SCSS
-- Bootstrap 4
+- Bootstrap 5
 - Responsive Design
 - JavaScript ES6
 - React / Redux
