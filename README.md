@@ -1,7 +1,7 @@
 ### Hi there 👋
-A front-end developer with a passion for technology and solving problems with lean, reusable code. I love collaborating as a team and contributing by engineering solutions that are scalable and accessible. Motivated by the challenge of bringing a vision to life, I strive to learn new technologies and guiding principles as I endeavour to expand my ever-growing skillset.
+Im a front-end developer with a passion for technology and solving problems with lean, reusable code. I love collaborating as a team and contributing by engineering solutions that are scalable and accessible. Motivated by the challenge of bringing a vision to life, I strive to learn new technologies and guiding principles as I endeavour to expand my ever-growing skillset.
 
-Learn more about me at MyWebsite.com
+Learn more about me at https://son-phan.com/
 
 My skills include but not limited to:
 - HTML5
